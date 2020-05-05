@@ -632,6 +632,7 @@ section {
     padding: 48px;
     border-radius: 20px;
     width: 64%;
+    max-height: 700px;
     /*z-index: 2;*/
 }
 

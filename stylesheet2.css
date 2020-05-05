@@ -621,11 +621,9 @@ section {
 }
 
 .twoRows_box {
-    position: relative;
     margin-top: 100px;
     width: 100%;
     display:flex;
-    max-height: 700px;
 }
 
 .text_box {
@@ -633,12 +631,10 @@ section {
     padding: 48px;
     border-radius: 20px;
     width: 64%;
-    /*z-index: 2;*/
 }
 
 .twoRows_box #img_right{
     height: auto;
-    /*top:-650px;*/
     width: 36%;
     margin: auto;
     border-radius: 0 20px 20px 0;
@@ -646,7 +642,6 @@ section {
 
 .twoRows_box #img_left{
     height: auto;
-    /*top:-650px;*/
     width: 36%;
     margin: auto;
     border-radius: 20px 0 0 20px;

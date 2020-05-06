@@ -47,6 +47,7 @@ body::-webkit-scrollbar-thumb {
 #content{
     width: 84%;
     position: relative;
+    overflow-x: hidden;
 }
 
 h1 {
@@ -624,6 +625,7 @@ section {
     margin-top: 100px;
     width: 100%;
     display:flex;
+    align-items: center;
 }
 
 .text_box {
@@ -837,6 +839,7 @@ section {
     width: 100%;
     height: auto;
     padding: 4%;
+    align-items: center;
 } 
 
 .tabcontent img {
@@ -912,6 +915,7 @@ section {
     width: 100%;
     height: auto;
     padding: 32px;
+    align-items: center;
 } 
 
 .tabcontent1 img {

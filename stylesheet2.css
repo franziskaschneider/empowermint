@@ -1233,6 +1233,10 @@ section {
 }
 
 
+#ui{
+    margin-bottom: 48px;
+}
+
 #danke {
     margin-top: 200px;
     margin-bottom: 200px;

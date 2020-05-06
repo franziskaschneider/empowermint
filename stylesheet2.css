@@ -752,7 +752,7 @@ section {
 }
 
 #scribble_kontext{
-    width: 80%;
+    width: 90%;
     padding-top: 60px;
     padding-bottom: 60px;
     display: block;
@@ -1140,10 +1140,23 @@ section {
 }
 
 .mySlides2 video {
-    width: 64%;
+    width: 72%;
     margin: auto;
     display: block;
-    margin-bottom: 54px;
+    margin-top: 54px;
+    border-radius: 10px;
+}
+
+#tab_graphics {
+    display: flex;
+    align-items: flex-start;
+}
+
+#tab_graphics img{
+    width: 20%;
+    float: left;
+    border-radius: 10px;
+    margin-top: 54px;
 }
 
 /* Next & previous buttons */
